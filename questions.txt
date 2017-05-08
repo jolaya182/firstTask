@@ -1,0 +1,47 @@
+
+what is bower
+
+what is body parser used for?
+bodyparser.engine
+
+
+what is express
+app.set('views engine' ,  'ejs');
+
+app.use(express.static(path.join(__dirname, 'client') ) );
+
+bodyParser.json()
+bodyParser.urlencoded({extended:false}) 
+
+
+module.exports=router;
+
+
+.set
+.engine
+.use
+.listen
+.status
+.json
+
+
+what is in mongoDB
+.put
+.delete
+.save
+
+what is in angular
+btn btn -danger
+service to interact with our api
+ngfor="let task of task"
+(submit)=addtask($event)
+[(ngModel)]="title" name="title" class ="form-control" placeholder="ask task"
+
+
+
+what is in type script
+.subscribe
+an observable
+
+
+
